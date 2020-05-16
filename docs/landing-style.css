@@ -1,12 +1,12 @@
 body {
     background-image: url("paper.gif");
-    background-color: #fefbd8;
-    background-image: url("nh.jpg");
+    /* background-color: #fefbd8; */
+    background-image: url("../docs/bop.jpg");
 }
 
 .format {
     padding-top: 10px;
-    background-color: white;
+    background-color:#F0F0F2;
 
 }
 
@@ -28,14 +28,14 @@ body {
 .Text-format {
     font-weight: bold;
     text-align: justify;
+    color: #595736;
 }
-.Text-format1 {
-    font-weight: bold;
-    text-align: center;
-    width: 100%;
+#Text-format1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #595736;
 }
 .bac-format {
-    background-color: white;
+    background-color: seashell;
 }
 .in-format{
     align-content:center;
@@ -44,6 +44,25 @@ body {
 .table-format{
     text-align: center;
 }
+
+#cola { 
+    color: rgb(96, 107, 14);
+    font-weight: bold;
+
+    
+} 
+
+.bac-format1 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#hr1 {
+    border: 1px solid #848C45
+}
+
+hr1 {
+    border: 0.5px solid #848C45
  
 
 
