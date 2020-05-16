@@ -1,6 +1,4 @@
 body {
-    background-image: url("paper.gif");
-    /* background-color: #fefbd8; */
     background-image: url("../docs/bop.jpg");
 }
 
@@ -61,8 +59,9 @@ body {
     border: 1px solid #848C45
 }
 
-hr1 {
+/* hr1 {
     border: 0.5px solid #848C45
+} */
  
 
 
