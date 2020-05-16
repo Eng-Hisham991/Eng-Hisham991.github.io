@@ -33,7 +33,7 @@ body {
     color: #595736;
 }
 .bac-format {
-    background-color: seashell;
+    background-color:  rgb(253, 253, 253);
 }
 .in-format{
     align-content:center;
@@ -46,6 +46,7 @@ body {
 #cola { 
     color: rgb(96, 107, 14);
     font-weight: bold;
+    
 
     
 } 
