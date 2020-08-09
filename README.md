@@ -62,45 +62,45 @@ This section contains screenshots of each page that was built, at varying screen
 #### Landing page
 
 Large screen:
-![Landing page large screen](Images/landing-lg.png)
+![Landing page large screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/landing-lg.png)
 
 Small screen:
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/landing-sm.png)
 
 
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/comparison-lg.png)
 
 Small screen:
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/comparison-sm.png)
 
 #### Data page
 
 Large screen:
-![data page large screen](Images/data-lg.png)
+![data page large screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/data-lg.png)
 
 Small screen:
-![data page small screen](Images/data-sm.png)
+![data page small screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/data-sm.png)
 
 #### Visualization pages
 
 Here's a Sample of one:
 
 Large screen:
-![visualize page large screen](Images/visualize-lg.png)
+![visualize page large screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/visualize-lg.png)
 
 Small screen:
-![visualize page small screen](Images/visualize-sm.png)
+![visualize page small screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/visualize-sm.png)
 
 #### Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![nav menu large screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/nav-lg.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![nav menu small screen](https://github.com/Eng-Hisham991/Eng-Hisham991.github.io/blob/master/images/nav-sm.png)
 
 ### Copyright
 
